@@ -1,13 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8ebe00d-27e8-43ab-96d4-6d4460b200cf" name="Default Changelist" comment="" />
+    <list default="true" id="c8ebe00d-27e8-43ab-96d4-6d4460b200cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/eldos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eldos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eldos/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eldos/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eldos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eldos/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VW8t00qetvY3LMQzoEGfCmzbFy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
