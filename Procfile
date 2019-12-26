@@ -1,0 +1,1 @@
+web: gunicorn eldos.wsgi
